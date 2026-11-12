@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mente Afiada — estudo diário com repetição espaçada e gamificação">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3B1D8F"/>
+      <stop offset="0.55" stop-color="#6C3CE0"/>
+      <stop offset="1" stop-color="#FF7A1A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.5">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <!-- cards de pergunta decorativos -->
+  <g opacity="0.18" fill="#FFFFFF">
+    <rect x="1010" y="60" width="140" height="56" rx="14"/>
+    <rect x="1030" y="132" width="120" height="56" rx="14"/>
+    <rect x="1000" y="204" width="150" height="56" rx="14"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="1012" cy="160" r="10" fill="#2E7D32" opacity="0.9"/>
+    <path d="M1007 160 l4 4 l7 -8" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- raio -->
+  <g transform="translate(96 92)">
+    <circle cx="80" cy="88" r="80" fill="#FFFFFF" opacity="0.14"/>
+    <path d="M92 18 L44 100 H80 L66 158 L120 70 H84 Z" fill="#FFFFFF"/>
+  </g>
+  <text x="300" y="168" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#FFFFFF">Mente Afiada</text>
+  <text x="304" y="222" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" fill="#FFFFFF" opacity="0.92">Alguns minutos por dia para manter a mente em forma.</text>
+  <text x="304" y="268" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="20" fill="#FFFFFF" opacity="0.8">Flutter · Firebase · Repetição espaçada · Gamificação · IA</text>
+</svg>
