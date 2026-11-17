@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Mente Afiada" width="100%">
+  <img src="assets/banner.png" alt="Mente Afiada — estudo diário com repetição espaçada, gamificação e perguntas geradas por IA" width="100%">
 </p>
 
 <p align="center">
